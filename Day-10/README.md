@@ -1,6 +1,6 @@
 # Day 10 Report - React.js Installation & Project Setup
 
-**Date:** 12th July 2025  
+**Date:** 14th July 2025  
 **Intern:** Harshit Bhalani (231133116003)  
 **Company:** CreArt Solutions Pvt. Ltd., Ahmedabad  
 **Reporting Manager:** Mr. Alkesh Kaba  
