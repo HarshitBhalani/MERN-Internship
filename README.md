@@ -96,6 +96,7 @@ MERN-Stack-Internship/
 ├── Day-08/          # MongoDB Integration & Complete Backend
 ├── Day-09/          # React.js Introduction
 ├── Day-10/          # React.js Installation & Setup
+├── Day-11/          # Advanced React concepts
 └── README.md        # This overview file
 ```
 
