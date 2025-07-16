@@ -1,4 +1,4 @@
-# Day 11 Report - MERN Stack Internship
+# Day 11 Report - Advanced React concepts
 
 **Date:** 15th July 2025  
 **Intern:** Harshit Bhalani (231133116003)  
