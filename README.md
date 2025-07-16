@@ -26,6 +26,7 @@ This repository documents my 15-day intensive MERN Stack internship journey, cov
 - **[Day 9: React.js Introduction](./Day-09/)** - Frontend concepts and component architecture
 - **[Day 10: React.js Installation & Setup](./Day-10/)** - Project setup using CRA and Vite
 - **[Day 11: Advanced React concepts](./Day-11/)** - Advanced React concepts
+- **[Day 12: Employee Management System CRUD Operations(./Day-12/)** - Employee Management System CRUD Operations
 
 ## 🛠️ Technologies Learned
 
@@ -97,6 +98,7 @@ MERN-Stack-Internship/
 ├── Day-09/          # React.js Introduction
 ├── Day-10/          # React.js Installation & Setup
 ├── Day-11/          # Advanced React concepts
+├── Day-12/          # Employee Management System CRUD Operations
 └── README.md        # This overview file
 ```
 
